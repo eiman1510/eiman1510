@@ -1,1 +1,1 @@
-- 👋 Hello, I'm Eiman Asif, a Computer Science student at the National University of Fast. Eager to apply my programming skills and problem solving abilities, I am seeking an internship to gain practical experience in the field. Excited to contribute to a dynamic team and ready to tackle new challenges, I am confident in my ability to make meaningful contributions.
+- 👋 Hello, I'm Eiman Asif, a Computer Science student at the National University of Fast.
